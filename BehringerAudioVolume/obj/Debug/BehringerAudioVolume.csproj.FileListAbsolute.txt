@@ -1,0 +1,16 @@
+D:\Project C#\GitHub\BehringerVolumeAudio\BehringerAudioVolume\bin\Debug\BehringerAudioVolume.exe.config
+D:\Project C#\GitHub\BehringerVolumeAudio\BehringerAudioVolume\bin\Debug\BehringerAudioVolume.exe
+D:\Project C#\GitHub\BehringerVolumeAudio\BehringerAudioVolume\bin\Debug\BehringerAudioVolume.pdb
+D:\Project C#\GitHub\BehringerVolumeAudio\BehringerAudioVolume\bin\Debug\MixingConsole.dll
+D:\Project C#\GitHub\BehringerVolumeAudio\BehringerAudioVolume\bin\Debug\Newtonsoft.Json.dll
+D:\Project C#\GitHub\BehringerVolumeAudio\BehringerAudioVolume\bin\Debug\OSC.dll
+D:\Project C#\GitHub\BehringerVolumeAudio\BehringerAudioVolume\bin\Debug\X32.dll
+D:\Project C#\GitHub\BehringerVolumeAudio\BehringerAudioVolume\bin\Debug\MixingConsole.pdb
+D:\Project C#\GitHub\BehringerVolumeAudio\BehringerAudioVolume\bin\Debug\OSC.pdb
+D:\Project C#\GitHub\BehringerVolumeAudio\BehringerAudioVolume\bin\Debug\X32.pdb
+D:\Project C#\GitHub\BehringerVolumeAudio\BehringerAudioVolume\bin\Debug\Newtonsoft.Json.xml
+D:\Project C#\GitHub\BehringerVolumeAudio\BehringerAudioVolume\obj\Debug\BehringerAudioVolume.csproj.AssemblyReference.cache
+D:\Project C#\GitHub\BehringerVolumeAudio\BehringerAudioVolume\obj\Debug\BehringerAudioVolume.csproj.CoreCompileInputs.cache
+D:\Project C#\GitHub\BehringerVolumeAudio\BehringerAudioVolume\obj\Debug\BehringerAudioVolume.csproj.CopyComplete
+D:\Project C#\GitHub\BehringerVolumeAudio\BehringerAudioVolume\obj\Debug\BehringerAudioVolume.exe
+D:\Project C#\GitHub\BehringerVolumeAudio\BehringerAudioVolume\obj\Debug\BehringerAudioVolume.pdb

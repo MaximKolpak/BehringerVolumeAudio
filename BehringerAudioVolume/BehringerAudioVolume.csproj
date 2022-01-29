@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -43,11 +46,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Func\X32CheckConnect.cs" />
+    <Compile Include="Global\PathSystem.cs" />
+    <Compile Include="Param\SetupConsole.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MixingConsole\MixingConsole.csproj">
+      <Project>{0e1b5c6d-a33f-4169-8bf7-e7a69ad2bc32}</Project>
+      <Name>MixingConsole</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OSC\OSC.csproj">
+      <Project>{5d4c96b6-6ecf-45c0-b9bb-b392d01da045}</Project>
+      <Name>OSC</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\X32\BehringerX32.csproj">
+      <Project>{12a87a18-a3ed-40e8-8f91-addf41a0b4c6}</Project>
+      <Name>BehringerX32</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
