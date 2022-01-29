@@ -59,7 +59,7 @@ namespace BehringerAudioVolume
 
         static void VolumeDown()
         {
-
+            _console.SendParameter(_console.Aux[0].Strip.Fader);
         }
 
         static SetupConsole LoadProperties()
